@@ -317,23 +317,28 @@ Na túto emailovú adresu Ti budú chodiť oficiálne oznamy fakulty či ŠKASu.
 
 ## Často kladené otázky
 
-### Kde nájdem svoj rozvrh?
+#### Kde nájdem svoj rozvrh?
+{:.no_toc}
 
 Na webovej stránke fakulty a v modrých kioskoch pri vstupoch do fakulty. Na stránke [https://candle.fmph.uniba.sk](https://candle.fmph.uniba.sk) si môžeš vyhľadávať v rozvrhoch či vytvoriť vlastný.
 
-### Čo je to prerekvizita?
+#### Čo je to prerekvizita?
+{:.no_toc}
 
 V ročenke či informačnom liste predmetu sa neraz vyskytuje označenie aj iného predmetu (tzv. prerekvizita). Táto notácia označuje fakt, že bez absolvovania predmetu, ktorý je prerekvizitou, si daný predmet nemôžeš zapísať.
 
-### Aké jazyky môžem na FMFI študovať?
+#### Aké jazyky môžem na FMFI študovať?
+{:.no_toc}
 
 Angličtina, francúzština, nemčina a ruština. V prípade záujmu o iné jazyky, si môžeš zapísať predmety na inej fakulte univerzity (Pedagogická alebo Filozofická fakulta).
 
-### Môžem chodiť na prednášky, ktoré nemám zapísané?
+#### Môžem chodiť na prednášky, ktoré nemám zapísané?
+{:.no_toc}
 
 Áno, pokiaľ to nebude prekážať vyučujúcemu. Prednášky sú verejné (či už u nás, alebo na inej fakulte).
 
-### Kde sa môžem dostať ku počítaču?
+#### Kde sa môžem dostať ku počítaču?
+{:.no_toc}
 
 Počítače sa nachádzajú v učebniach H3, H6, M217, F1-248 a v knižnici. Vstup je možný iba s preukazom študenta (karta ISIC). Cez víkend a voľné dni je učebňa H3 k dispozícii od 9:00 do 19:00.
 
