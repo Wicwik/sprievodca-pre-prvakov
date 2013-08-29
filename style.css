@@ -1,8 +1,9 @@
 body {
-    max-width: 50em;
+    max-width: 45em;
     margin: 0 auto;
     color: #333;
     font-family: serif;
+    font-size: 100%;
 }
 
 table {border-collapse: collapse; margin: 0 auto;}
