@@ -103,8 +103,6 @@ Sadzba pomocou programu \LaTeX.\\*
 \maketitle
 \tableofcontents{}
 
-%\mainmatter\cleardoublepage
-
 \chapter{Úvod}
 
 Milá matfyzáčka, milý matfyzák,
@@ -141,14 +139,14 @@ fakulty.
 <%
 # vymazem uvod (je uz v template)
 remove_until = '\chapter{Štúdium}'
-index = body.index(remove_until)# + remove_until.length
+index = body.index(remove_until)
 body = body[index..-1]
 
 # vymazem sekcie pri mapach
 body = body.sub('\section{Mapa Mlynskej doliny}\hypertarget{mapa-mlynskej-doliny}{}\label{mapa-mlynskej-doliny}', '')
 body = body.sub('\section{Mapa Matfyzu}\hypertarget{mapa-matfyzu}{}\label{mapa-matfyzu}', '')
 
-# upravim velkost obrazkov
+# upravim velkost map
 body = body.sub('\includegraphics{images/mapa-horiz_w.png}', '\includegraphics[width=1\textwidth]{images/mapa-horiz_w.png}')
 body = body.sub('\includegraphics{images/plan_matfyzu.png}', '\includegraphics[width=1\textwidth]{images/plan_matfyzu.png}')
 %>
