@@ -116,7 +116,7 @@ Minimálny počet získaných kreditov, reprezentujúci tzv. minimálne tempo �
 
 Každý študijný program má svoj **odporúčaný študijný plán**, v ktorom je pre každý semester uvedený zoznam povinných, povinne voliteľných a výberových predmetov. Štandardne si zapisuješ predmety podľa tohto plánu.
 
-V prípade záujmu si môžeš zapísať aj predmety určené pre iný rok štúdia či z iných študijných programov. Pred zápisom takýchoto predmetov Ti ale odporúčame pozrieť si ich prerekvizity a konzultovať náročnosť s tútorom alebo samotným učiteľom.
+V prípade záujmu si môžeš zapísať aj predmety určené pre iný rok štúdia či z iných študijných programov. Pred zápisom takýchto predmetov Ti ale odporúčame pozrieť si ich prerekvizity a konzultovať náročnosť s tútorom alebo samotným učiteľom.
 
 Môžeš si zapísať aj **mimofakultné predmety** v rámci UK či inej univerzity. V prvom rade sa ale treba dohodnúť s príslušným učiteľom. Kvôli prenosu kreditov treba následne komunikovať s prodekanmi pre pregraduálne štúdium oboch fakúlt -- mali by podpísať tlačivo „Zmluva o štúdiu“.
 
@@ -126,7 +126,7 @@ Prvé dva týždne každého semestra je možné zmeniť si už zapísané predm
 
 ### Absolvovanie predmetov
 
-Predmet sa považuje za absolvovaný, ak splníš aspoň minimálne kritériá, tj hodnotenie známkou E.
+Predmet sa považuje za absolvovaný, ak splníš aspoň minimálne kritériá, tj. hodnotenie známkou E.
 
 Základné pravidlo je, že za svoje štúdium musíš absolvovať všetky povinné a výber z povinne voliteľných predmetov podľa pravidiel určených študijným programom (väčšinou treba nazbierať určitý počet kreditov z nejakej skupiny predmetov).
 
@@ -190,7 +190,7 @@ V rámci svojho štúdia sa môžeš zároveň uchádzať aj o štúdium na in
 
 Svoj názor na štúdium môžeš anonymne prejaviť v **študentskej ankete** alebo napísať **čiernej skrinky**, ktorú nájdeš v AISe. Vedenie fakulty si veľmi váži dobre mienenú kritiku, snahu študentov o akékoľvek zlepšenia a pokiaľ je to možné, vyjde v ústrety.
 
-Ak si myslíš, že prišlo k porušeniu Tvojich práv, môžeš sa obrátiť na viacero ľudí či organizácií. V prvom rade sa snaž problém vyriešiť tam, kde vznikol (napr. priamo s vyučujúcim). V prípade neúspechu sa môžeš obrátiť na nás (ŠKAS), na tútora, garanta alebo na_ prodekana pre pregraduálne štúdium_. Ďalšie inštancie sú: _Študentský ombudsman_, [_Študentská rada vysokých škol_](http://www.srvs.sk) alebo [_Ministerstvo školstva, vedy, výskumu a športu SR_](http://www.minedu.sk).
+Ak si myslíš, že prišlo k porušeniu Tvojich práv, môžeš sa obrátiť na viacero ľudí či organizácií. V prvom rade sa snaž problém vyriešiť tam, kde vznikol (napr. priamo s vyučujúcim). V prípade neúspechu sa môžeš obrátiť na nás (ŠKAS), na tútora, garanta alebo na _prodekana pre pregraduálne štúdium_. Ďalšie inštancie sú: _Študentský ombudsman_, [_Študentská rada vysokých škol_](http://www.srvs.sk) alebo [_Ministerstvo školstva, vedy, výskumu a športu SR_](http://www.minedu.sk).
 
 ### Študentská anketa ###
 
@@ -233,7 +233,7 @@ Po celodennom sedení určite oceníš aj aktívnejšiu zábavu. O to sa star�
 
 Pre nočné tvory fungujú počas celého roka tzv. **Večerné ligy**, ktoré sa odohrávajú v telocvični na Mlynoch. V priateľskej atmosfére sa tu hrá basketbal, futsal, florbal a volejbal.
 
-Každý semester sa pred skúškovým obdobím konajú **Športové dni FMFI**, na ktorých sa študenti, profesori a naši absolventi zapájú až do 15 športových disciplín (je medzi nimi aj poker, čo je na Matfyze považované tiež za športovú disciplínu). 
+Každý semester sa pred skúškovým obdobím konajú **Športové dni FMFI**, na ktorých sa študenti, profesori a naši absolventi zapájajú až do 15 športových disciplín (je medzi nimi aj poker, čo je na Matfyze považované tiež za športovú disciplínu). 
 
 
 ## Stravovanie ##
@@ -308,7 +308,7 @@ miestnosť I22
 
 ### Univerzitná emailová adresa
 
-Každý študent Univerzity Komenského v Bratislave má pridelenú emailovú adresu v tvare <code>&lt;prihlasovacie-meno&gt;@uniba.sk</code>.
+Každý študent Univerzity Komenského v Bratislave má pridelenú emailovú adresu v tvare: `<prihlasovacie_meno>@uniba.sk`.
 
 Prihlasovacie meno je rovnaké ako do AISu alebo do fakultnej počítačovej siete.
 
