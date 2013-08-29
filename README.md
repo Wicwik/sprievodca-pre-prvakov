@@ -14,9 +14,23 @@ $ apt-get install ruby-bundler
 $ bundle install
 ```
 
-### HTML
+### XHTML
 
-```$ sh make_html.sh```
+``` bash
+$ sh make-html.sh
+```
 
-Šablóna výsledného dokumentu je v súbore `template.html`.
+Šablóna výsledného dokumentu je v súbore `template.html`. Je k nemu aj CSS-ko, ktoré pridáva základné formátovanie, číslovanie obsahu a sekcií a zlepšuje čitateľnosť.
+
+### LaTeX
+
+``` bash
+$ sh make-latex.sh
+```
+
+Súbor `template.tex` obsahuje aj základné úpravy potrebné pre správne vytvorenie verzie pre tlač. Ďalšie úpravy sú potrebné robiť ručne v .tex súbore, sú to napr. tieto:
+
+* upraviť tabuľky
+* pridať vlnky (~)
+* preformulovať niektoré časti tak, aby sa text vošiel kam má a správne zalamil
 
