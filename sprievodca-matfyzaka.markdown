@@ -1,5 +1,7 @@
-Matfyzákov sprievodca galaxiou
-==============================
+---
+layout: publication
+title: Matfyzákov sprievodca galaxiou
+---
 
 ## Praktické rady a informácie o štúdiu v akademickom roku 2014 ⁄ 2015
 {:.no_toc .subtitle}
@@ -29,10 +31,10 @@ Sadzba papierovej verzie pomocou programu [LaTeX](http://www.latex-project.org).
 * [https://www.youtube.com/MatFyzJeIn](https://www.youtube.com/MatFyzJeIn)
 
 ## Obsah
-{:.no_toc}
+{:.no_toc .show-for-small}
 
 1. obsah
-{:toc}
+{:toc .show-for-small}
 
 ## Úvod
 
