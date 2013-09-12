@@ -308,11 +308,13 @@ miestnosť I22
 
 ### Univerzitná emailová adresa
 
-Každý študent Univerzity Komenského v Bratislave má pridelenú emailovú adresu v tvare: `<prihlasovacie_meno>@uniba.sk`.
+Každý študent Univerzity Komenského v Bratislave má pridelenú emailovú adresu v tvare: `<prihlasovacie_meno>@uniba.sk`. Prihlasovacie meno je rovnaké ako do AISu alebo do fakultnej počítačovej siete.
 
-Prihlasovacie meno je rovnaké ako do AISu alebo do fakultnej počítačovej siete.
+Technologicky ide o to cloudovú služba spoločnosti Microsoft. Ponúka e-mail, kalendáre, komunikačné nástroje a online verziu kancelárskeho balíka Office.
 
-Na túto emailovú adresu Ti budú chodiť oficiálne oznamy fakulty či ŠKASu. Poštu z nej si môžeš presmerovať na inú emailovú adresu.
+K službe sa prihlasuje cez stránku [https://www.outlook.com/uniba.sk](https://www.outlook.com/uniba.sk). K emailovej schránke existuje aj [alternatívny prístup](http://www.uniba.sk/index.php?id=3876) cez protokoly POP alebo IMAP.
+
+Na túto emailovú adresu Ti budú chodiť oficiálne oznamy fakulty či ŠKASu, preto ju **pravidelne kontroluj**. Poštu z nej si môžeš presmerovať na inú emailovú adresu.
 
 
 ## Často kladené otázky
