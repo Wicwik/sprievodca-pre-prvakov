@@ -286,8 +286,6 @@ Edo-Kin
 
 Supermarket **Lidl** sa nachádza asi 10 minút pešo od školy smerom do Karlovej Vsi (pri zastávke _Molecova_). Supermarket **Billa** je v obchodnom centre Cubicon.
 
-Na internátoch v budove „Štúraku“ sa nachádza obchod **Babka**, kde nájdeš všetko, čo potrebuješ, ak sú ostatné obchody už zatvorené.
-
 ## Informačné technológie
 
 ### Fakultná Wi-Fi sieť
