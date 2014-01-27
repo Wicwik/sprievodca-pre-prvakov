@@ -57,11 +57,11 @@ Každý študijný program má pridelenú svoju referentku (pozri menovky pri dv
 
 
 |----------+----------------+-----------------------------|
-|          |                | Služba vo vybranej pracovni |
+|          | Úradné hodiny  | Služba vo vybranej pracovni |
 |:---------|:--------------:|:---------------------------:|
 | Pondelok | 09:00 -- 11:30 | 13:00 -- 15:00              |
 | Utorok   | 13:00 -- 15:00 | --                          |
-| Streda   | 09:00 -- 11:30 | 13:00 -- 15:00              |
+| Streda   | 09:00 -- 11:30<br/>13:00 -- 15:00 | --                          |
 | Štvrtok  | 09:00 -- 11:30 | 13:00 -- 15:00              |
 | Piatok   |         nestránkový deň                      |
 |----------+----------------+-----------------------------|
