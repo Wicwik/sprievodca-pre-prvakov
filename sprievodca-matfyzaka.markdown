@@ -31,10 +31,10 @@ Sadzba papierovej verzie pomocou programu [LaTeX](http://www.latex-project.org).
 * [https://www.youtube.com/MatFyzJeIn](https://www.youtube.com/MatFyzJeIn)
 
 ## Obsah
-{:.no_toc .show-for-small}
+{:.no_toc .show-for-small-only}
 
 1. obsah
-{:toc .show-for-small}
+{:toc .show-for-small-only}
 
 ## Úvod
 
