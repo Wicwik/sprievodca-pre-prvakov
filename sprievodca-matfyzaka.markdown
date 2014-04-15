@@ -229,7 +229,7 @@ Túto jar sme organizovali **brigádu**, na ktorej sme sa snažili skrášliť 
 
 ### Športové vyžitie ###
 
-Po celodennom sedení určite oceníš aj aktívnejšiu zábavu. O to sa stará okrem iného aj Katedra telesnej výchovy a športu (KTVŠ), ktorá Ti ponúka príležitosti športového vyžitia. Ponúkajú Ti telocvične, ihriská a lodenicu. Novinky, oznamy, básničky a štýlových maskotov nájdeš na nástenke pri študijnom oddelení.
+Po celodennom sedení určite oceníš aj aktívnejšiu zábavu. O to sa stará okrem iného aj [Katedra telesnej výchovy a športu (KTVŠ)](http://ktvs.fmph.uniba.sk/), ktorá Ti ponúka príležitosti športového vyžitia. Ponúkajú Ti telocvične, ihriská a lodenicu. Novinky, oznamy, básničky a štýlových maskotov nájdeš na nástenke pri študijnom oddelení.
 
 Pre nočné tvory fungujú počas celého roka tzv. **Večerné ligy**, ktoré sa odohrávajú v telocvični na Mlynoch. V priateľskej atmosfére sa tu hrá basketbal, futsal, florbal a volejbal.
 
