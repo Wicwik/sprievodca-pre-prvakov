@@ -24,6 +24,7 @@ p {line-height: 1.4;}
 /* counter for headings */
 h1 {counter-reset: kapitola;}
 h2 {counter-reset: podkapitola;}
+h3 {counter-reset: podpodkapitola;}
 h2:before {
     counter-increment: kapitola;
     content: counter(kapitola) " ";
@@ -32,6 +33,10 @@ h2:before {
 h3:before {
     counter-increment: podkapitola;
     content: counter(kapitola) "." counter(podkapitola) " ";
+}
+h4:before {
+    counter-increment: podpodkapitola;
+    content: counter(kapitola) "." counter(podkapitola) "." counter(podpodkapitola) " ";
 }
 h2.no_toc:before {
     counter-reset: kapitola;
